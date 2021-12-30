@@ -1,0 +1,55 @@
+j=19
+i='HACKCLUB KMEA XMAS PROJECT'
+print(' '*j+i)
+for i in range (1,4):
+    print(' '*i)
+j=32
+for i in range (1,15,2):
+    print(' '*j+i*'^')
+    j=j-1
+j=24
+for i in range (1,2):
+    print(' '*j+i*'++*************++')
+    j=j
+j=30
+for i in range (5,18,2):
+    print(' '*j+i*'^')
+    j=j-1
+j=22
+for i in range (1,2):
+    print(' '*j+i*'++****************++')
+    j=j
+j=29
+for i in range (7,21,2):
+    print(' '*j+i*'^')
+    j=j-1
+j=21
+for i in range (1,2):
+    print(' '*j+i*'++*******************++')
+    j=j
+j=30
+for i in range (1,2):
+    print(' '*j+i*'||||')
+    j=j
+j=30
+for i in range (1,2):
+    print(' '*j+i*'||||')
+    j=j
+j=30
+for i in range (1,2):
+    print(' '*j+i*'||||')
+    j=j
+j=25
+for i in range (1,2):
+    print(' '*j+i*'~~~~~~~~~~~~~~~~')
+    j=j
+for i in range (1,5):
+    print(' '*i)
+j=50
+print(' '*j+'Ayisha Safa')
+print(' '*j+'S1 ME')
+  
+
+
+
+
